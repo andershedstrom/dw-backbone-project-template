@@ -12,6 +12,8 @@ Visit `http://localhost:8080`
 
 Update `pom.xml` with your own _groupId_, _artifactName_ and _version_
 
+Start writing some javascript and REST service code…
+
 ## References
 
 * [Dropwizard](http://dropwizard.codahale.com/)
